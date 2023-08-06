@@ -11,7 +11,7 @@ I'm working on building games in Golang and open sourcing my libaries. Currently
  * [ECS](https://github.com/unitoftime/ecs) - A generic ECS library
  * [Packer](https://github.com/unitoftime/packer) - A sprite packing library and standalone
  * [RtcNet](https://github.com/unitoftime/rtcnet) - Essentially a net.Conn wrapper for pion.WebRTC (Gives you client/server UDP-ish connections in a browser)
- * [Envoy](https://github.com/unitoftime/flow/tree/master/net/rpc/envoy) - I'll eventually reorganize this to a proper repository, but this is a bidirectional RPC framework
+ * [Envoy](https://github.com/unitoftime/envoy) - A lightweight, fast, and generic bidirectional RPC framework
  * [Cod](https://github.com/unitoftime/cod) - A serdes codegen tool that scans your AST and generates fast serialization code from your structs
 
 Here are some full games I open sourced:
