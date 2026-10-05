@@ -13,6 +13,9 @@ I'm working on building games in Golang and open sourcing my libaries. Currently
  * [Envoy](https://github.com/unitoftime/envoy) - A lightweight, fast, and generic bidirectional RPC framework
  * [Cod](https://github.com/unitoftime/cod) - A serdes codegen tool that scans your AST and generates fast serialization code from your structs
 
+Just Vibes
+ * [Ted](https://github.com/unitoftime/ted) - An emacs-inspired text editor
+
 Here are some full games I open sourced:
  * [Boxlin](https://github.com/unitoftime/boxlin) - For Ludum Dare 53
  * I guess I only have 1 right now!
