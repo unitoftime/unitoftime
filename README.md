@@ -1,11 +1,13 @@
 <p align="center">
-  <a href="https://mythfall.com"><img alt="Mythfall" src="https://img.shields.io/website?label=Mythfall&style=for-the-badge&url=https%3A%2F%2Fmythfall.com"></a>
-  <a href="https://www.youtube.com/@UnitOfTimeYT"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-@UnitOfTimeYT-FF0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
-  <a href="https://discord.gg/63YeahMKfJ"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white&style=for-the-badge"></a>
-  <a href="https://x.com/UnitOfTime"><img alt="X" src="https://img.shields.io/badge/X-@UnitOfTime-000000?logo=x&logoColor=white&style=for-the-badge"></a>
+  <a href="https://mythfall.com"><img alt="Mythfall" src="https://img.shields.io/badge/Mythfall-444c56?style=for-the-badge"></a>
+  <a href="https://www.youtube.com/@UnitOfTimeYT"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-444c56?style=for-the-badge"></a>
+  <a href="https://discord.gg/63YeahMKfJ"><img alt="Discord" src="https://img.shields.io/badge/Discord-444c56?style=for-the-badge"></a>
+  <a href="https://x.com/UnitOfTime"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-444c56?style=for-the-badge"></a>
 </p>
 
-## Hi! I'm Jacob - aka UnitOfTime
+### Hi! I'm Jacob - aka UnitOfTime
+
+---
 
 #### Golang
  * [Glitch](https://github.com/unitoftime/glitch) - A shader based rendering library
