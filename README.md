@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://mythfall.com"><img alt="Mythfall" src="https://img.shields.io/badge/Mythfall-444c56?style=for-the-badge"></a>
-  <a href="https://www.youtube.com/@UnitOfTimeYT"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-444c56?style=for-the-badge"></a>
-  <a href="https://discord.gg/63YeahMKfJ"><img alt="Discord" src="https://img.shields.io/badge/Discord-444c56?style=for-the-badge"></a>
-  <a href="https://x.com/UnitOfTime"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-444c56?style=for-the-badge"></a>
+  <a href="https://mythfall.com"><img alt="Mythfall" src="https://img.shields.io/badge/Mythfall-4f8fba?style=for-the-badge"></a>
+  <a href="https://www.youtube.com/@UnitOfTimeYT"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge"></a>
+  <a href="https://discord.gg/63YeahMKfJ"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge"></a>
+  <a href="https://x.com/UnitOfTime"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge"></a>
 </p>
 
 ### Hi! I'm Jacob - aka UnitOfTime
